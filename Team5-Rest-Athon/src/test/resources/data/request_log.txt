@@ -1,0 +1,1406 @@
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMTYsImV4cCI6MTcwMDU3NTkxNn0.JnZzg5clsA6YatsqxDMPJSfffZ7SpwuAHX67rlZwzU4txm0RJ469hA7VrLhJZYDEfd6cC-tRqj0FMWg-mTjUVg
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/morbidity0000
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMTgsImV4cCI6MTcwMDU3NTkxOH0.UtqUHS47sI7cMsnbbLt4vEoseyr-zXfSUwMyar-yoZa4OLk4WYqYKKULDmHJHJDvu3Qv9X48v30Y_9iPOv1x7A
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer invalidtoken!!!
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjAsImV4cCI6MTcwMDU3NTkyMH0.Ml-UY0zMD2kGu34pXaizWjgzUnJHlgZot4jjVU2qbJ9tm-Y1VCbnyyez6A9-ItWxTqn8LEzF8qfEic97730hIw
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjEsImV4cCI6MTcwMDU3NTkyMX0.EQd1b4NBKJLFe0b4mTnhz9R5OmBxUKirbYdTMReh4dOSU5n8lIahQuJs5lNTPQtLFnQltJT9cuwa5gtVuWISjA
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjEsImV4cCI6MTcwMDU3NTkyMX0.EQd1b4NBKJLFe0b4mTnhz9R5OmBxUKirbYdTMReh4dOSU5n8lIahQuJs5lNTPQtLFnQltJT9cuwa5gtVuWISjA
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient0000
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjMsImV4cCI6MTcwMDU3NTkyM30.DGb_SCOkY3kTtEw68Puh5oTWxgqI_N45IOw0_dFY83cYKwIpg2YMOvv1T-vrjj4kFauOR5fi1nVYbGAxW_U1dg
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer invalidtoken!!!
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjQsImV4cCI6MTcwMDU3NTkyNH0._3YDeUPO-v6SzjownJiYXKbnmZAc5ERH-ZYXE9cr2ztcDPWL-4p6UqnWZYOpExgix3twc2AbyPRbUJOqMfxIvw
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "test@gmail.com",
+    "password": "gtyy456"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "tyurryy"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "bnm@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logo
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjYsImV4cCI6MTcwMDU3NTkyNn0.U-dRTX7Hrn93Eg2TWstlDbqsKcpWSCdmjsqzChnRSbeMfxzrzbiBfi6VJMSpvXN57n1Ju2A4Yyw859C7OHL3Vw
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjYsImV4cCI6MTcwMDU3NTkyNn0.U-dRTX7Hrn93Eg2TWstlDbqsKcpWSCdmjsqzChnRSbeMfxzrzbiBfi6VJMSpvXN57n1Ju2A4Yyw859C7OHL3Vw
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjYsImV4cCI6MTcwMDU3NTkyNn0.U-dRTX7Hrn93Eg2TWstlDbqsKcpWSCdmjsqzChnRSbeMfxzrzbiBfi6VJMSpvXN57n1Ju2A4Yyw859C7OHL3Vw
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer null
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjcsImV4cCI6MTcwMDU3NTkyN30.A-2WPnrwV41ZhagN37qz23PSwHmS9x_FNymIEjPjd-k7y1Rjf3swxwCiDSuceGemScTajnCBHculGqmEqdpUKQ
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjcsImV4cCI6MTcwMDU3NTkyN30.A-2WPnrwV41ZhagN37qz23PSwHmS9x_FNymIEjPjd-k7y1Rjf3swxwCiDSuceGemScTajnCBHculGqmEqdpUKQ
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjcsImV4cCI6MTcwMDU3NTkyN30.A-2WPnrwV41ZhagN37qz23PSwHmS9x_FNymIEjPjd-k7y1Rjf3swxwCiDSuceGemScTajnCBHculGqmEqdpUKQ
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjgsImV4cCI6MTcwMDU3NTkyOH0.Ggmqzlnv7so2sp5z4caSvhNxWhKx_DzlB8V-mGg0CIqY0Q2U0E7NB04G7Tl_QLegUHdW7GQaGHN7xvGhIk_bMg
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logo
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjgsImV4cCI6MTcwMDU3NTkyOH0.Ggmqzlnv7so2sp5z4caSvhNxWhKx_DzlB8V-mGg0CIqY0Q2U0E7NB04G7Tl_QLegUHdW7GQaGHN7xvGhIk_bMg
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjksImV4cCI6MTcwMDU3NTkyOX0.USyWuKTee1tvHZFKoTMKKC_6Aarr-CIS2JJrY603A0Sh4ZyEvhOnhoiW1Xl39RlfIR-seq0PvT6fkxMvYKJdNQ
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMjksImV4cCI6MTcwMDU3NTkyOX0.USyWuKTee1tvHZFKoTMKKC_6Aarr-CIS2JJrY603A0Sh4ZyEvhOnhoiW1Xl39RlfIR-seq0PvT6fkxMvYKJdNQ
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3Anull%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":null,"LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzAsImV4cCI6MTcwMDU3NTkzMH0.W16EDkWU8e7ee1eS2QmHotbOgE89Uv3lz5yVbsnpLIJkKWc7ItGCs6xxf-NFl77JopPDB9nD9CCdjbYcye89mQ
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3Anull%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":null,"ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzAsImV4cCI6MTcwMDU3NTkzMH0.W16EDkWU8e7ee1eS2QmHotbOgE89Uv3lz5yVbsnpLIJkKWc7ItGCs6xxf-NFl77JopPDB9nD9CCdjbYcye89mQ
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A0%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":0,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzEsImV4cCI6MTcwMDU3NTkzMX0.fROVmnaenG4fVWFvac_Ldz9kAQaMVS9bVpQXZEqJbDOjMGGetvV7P1wTMho4VnRiwOMDbdcgraYND1Tplb0meA
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3Anull%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":null,"Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzEsImV4cCI6MTcwMDU3NTkzMX0.fROVmnaenG4fVWFvac_Ldz9kAQaMVS9bVpQXZEqJbDOjMGGetvV7P1wTMho4VnRiwOMDbdcgraYND1Tplb0meA
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg12%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg12","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzIsImV4cCI6MTcwMDU3NTkzMn0.TFVPpt18xaE566XkZM4t37-_TXJ7ehsNznawXeR33j_I0LbJEWSuGaCpv8n4jn2KlNLRVJ6vfAFxwUUAMyKVMQ
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan12%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan12","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzIsImV4cCI6MTcwMDU3NTkzMn0.TFVPpt18xaE566XkZM4t37-_TXJ7ehsNznawXeR33j_I0LbJEWSuGaCpv8n4jn2KlNLRVJ6vfAFxwUUAMyKVMQ
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3Anull%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":null}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzMsImV4cCI6MTcwMDU3NTkzM30.MNWprrZgWcltLHIQWY2lvTxUtTzGyX9DjR1e660mkifsT1vwVyWuXVoDbCF_wkES4_JXLMstPKC3dU6pTyWE4A
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%22abch%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"abch"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzMsImV4cCI6MTcwMDU3NTkzM30.MNWprrZgWcltLHIQWY2lvTxUtTzGyX9DjR1e660mkifsT1vwVyWuXVoDbCF_wkES4_JXLMstPKC3dU6pTyWE4A
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans2gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans2gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzQsImV4cCI6MTcwMDU3NTkzNH0.gR6wGoLDA9Kf_T-w0x5ZRx6hmG1DbtfBhD3fT6v20VNGknHQIBpcYbTmjDLoAFK0MW7DNYK7cvPo9KUrvjMblw
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=null
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo=null
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzQsImV4cCI6MTcwMDU3NTkzNH0.gR6wGoLDA9Kf_T-w0x5ZRx6hmG1DbtfBhD3fT6v20VNGknHQIBpcYbTmjDLoAFK0MW7DNYK7cvPo9KUrvjMblw
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzUsImV4cCI6MTcwMDU3NTkzNX0.5gSrG1AOEKQZthfVZxFCybUx6zq_6nduozpKuT7ekPpxA0B9LF3zBJ9OqfxAdD2giE1rW1A52N3Smz8HYMhvuQ
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer invalidtoken!!!
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzYsImV4cCI6MTcwMDU3NTkzNn0.YP4HSVu5-uDTfGMYSltil4ilXwlrwQYaW1yWmICqCIZ5Mc-ijFr19xHF0wM3RGEm0m5EHhR_4CLRzlNv9udyBA
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzYsImV4cCI6MTcwMDU3NTkzNn0.YP4HSVu5-uDTfGMYSltil4ilXwlrwQYaW1yWmICqCIZ5Mc-ijFr19xHF0wM3RGEm0m5EHhR_4CLRzlNv9udyBA
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "Rajan.m@gmail.com",
+    "password": "test"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzYsImV4cCI6MTcwMDU3NTkzNn0.YP4HSVu5-uDTfGMYSltil4ilXwlrwQYaW1yWmICqCIZ5Mc-ijFr19xHF0wM3RGEm0m5EHhR_4CLRzlNv9udyBA
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "Rajan.m@gmail.com",
+    "password": "test"
+}
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzYsImV4cCI6MTcwMDU3NTkzNn0.YP4HSVu5-uDTfGMYSltil4ilXwlrwQYaW1yWmICqCIZ5Mc-ijFr19xHF0wM3RGEm0m5EHhR_4CLRzlNv9udyBA
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/logoutdietician
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzYsImV4cCI6MTcwMDU3NTkzNn0.YP4HSVu5-uDTfGMYSltil4ilXwlrwQYaW1yWmICqCIZ5Mc-ijFr19xHF0wM3RGEm0m5EHhR_4CLRzlNv9udyBA
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzcsImV4cCI6MTcwMDU3NTkzN30.CeoEf6JOL5BtkOKodSR2teTpqYCXyRIUbEjyKrtaKbfjnDidZ2lNp6w55AqJryqoglfpUxOOSqbqqXJX4aKsog
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Diabetic.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Diabetic.pdf
+Body:			<none>
+Request method:	PUT
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient/5343?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udansupdated%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udansupdated","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzcsImV4cCI6MTcwMDU3NTkzN30.CeoEf6JOL5BtkOKodSR2teTpqYCXyRIUbEjyKrtaKbfjnDidZ2lNp6w55AqJryqoglfpUxOOSqbqqXJX4aKsog
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Hypo Thyroid-Report.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Hypo Thyroid-Report.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	PUT
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient/5343?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg12%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg12","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzgsImV4cCI6MTcwMDU3NTkzOH0.5z_dxeHT9Rw4ZhuSl_BGmNQP4c4hP7vzf6ONKiSJ78s9As3cteQkmNI0AfP5dPlPAa0JezLMjS16J7Cof8F6wA
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Hypo Thyroid-Report.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Hypo Thyroid-Report.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	PUT
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient/5343?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan12%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan12","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzksImV4cCI6MTcwMDU3NTkzOX0.rSL7T7qZef7nYOkIBs3nTsdLm_ubVM8T6gizxAXssNtDRC5J-rzRgKPs8BpNhRXIs5o9C785YiOvUdleiezS-g
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Hypo Thyroid-Report.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Hypo Thyroid-Report.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	PUT
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient/5343?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%22abch%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"abch"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxMzksImV4cCI6MTcwMDU3NTkzOX0.rSL7T7qZef7nYOkIBs3nTsdLm_ubVM8T6gizxAXssNtDRC5J-rzRgKPs8BpNhRXIs5o9C785YiOvUdleiezS-g
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Hypo Thyroid-Report.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Hypo Thyroid-Report.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	PUT
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient/5343?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans2gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans2gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxNDAsImV4cCI6MTcwMDU3NTk0MH0.NWJ58OdoQf87SnniYUebQBx-leMr4XjfBA2WVof8P0fYh0mNz39ZQP14DrnyIG1Oacvoj5nhRjj8hwER_Y1Oxg
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Hypo Thyroid-Report.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Hypo Thyroid-Report.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	PUT
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient/5343?patientInfo=null
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo=null
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxNDAsImV4cCI6MTcwMDU3NTk0MH0.NWJ58OdoQf87SnniYUebQBx-leMr4XjfBA2WVof8P0fYh0mNz39ZQP14DrnyIG1Oacvoj5nhRjj8hwER_Y1Oxg
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Hypo Thyroid-Report.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Hypo Thyroid-Report.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	PUT
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient/5343?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxNDEsImV4cCI6MTcwMDU3NTk0MX0.dkeDZBqxXxNj8TkeRRhIZIn08Y7UjM6oLxUywdIsGc0sBRS210FTTfrPDEBMNjDKrTT3ezpiphEF8nPsNDYZww
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Hypo Thyroid-Report.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Hypo Thyroid-Report.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	PUT
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient/5343?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer invalidtoken!!!
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Hypo Thyroid-Report.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Hypo Thyroid-Report.pdf
+Body:			<none>
+Request method:	POST
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userLoginEmail": "angu.geetha@gmail.com",
+    "password": "Song88"
+}
+Request method:	PUT
+Request URI:	https://dietician-dev-41d9a344a720.herokuapp.com/dietician/patient/5343?patientInfo=%7B%22FirstName%22%3A%22jade%22%2C%22LastName%22%3A%22udans%22%2C%22ContactNumber%22%3A7979797979%2C%22Email%22%3A%22udans%40gmail.com%22%2C%22Allergy%22%3A%22egg%22%2C%22FoodCategory%22%3A%22Vegan%22%2C%22DateOfBirth%22%3A%221988-10-10%22%7D
+Proxy:			<none>
+Request params:	<none>
+Query params:	patientInfo={"FirstName":"jade","LastName":"udans","ContactNumber":7979797979,"Email":"udans@gmail.com","Allergy":"egg","FoodCategory":"Vegan","DateOfBirth":"1988-10-10"}
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbmd1LmdlZXRoYUBnbWFpbC5jb20iLCJpYXQiOjE3MDA1NDcxNDIsImV4cCI6MTcwMDU3NTk0Mn0.5MbJpaZlZbvT36jrjbHv03L59Td2YyiUoZBBxtoBddu-lwr3VW1V1MqDb7ULX3ojXfAI8OjVAlmepdbL_Q5x_A
+				Accept=*/*
+				Content-Type=multipart/form-data
+Cookies:		<none>
+Multiparts:		------------
+				Content-Disposition: form-data; name = file; filename = Hypo Thyroid-Report.pdf
+				Content-Type: application/octet-stream
+
+				.\src\test\resources\Hypo Thyroid-Report.pdf
+Body:			<none>
